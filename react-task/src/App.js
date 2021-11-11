@@ -1,10 +1,8 @@
-import logo from "./logo.svg"
-import "./App.css"
-
-function App() {
+import { Main } from "./components"
+const App = () => {
   return (
-    <div className="App">
-      
+    <div>
+      <Main />
     </div>
   )
 }
