@@ -1,0 +1,12 @@
+.button-add {
+  background-color: transparent;
+  border: none;
+  border-radius: 50%;
+  width: 1em;
+  height: 1em;
+  color: var(--color-gray-darken3);
+  background-color: var(--color-gray-darken2);
+  line-height: 1;
+  font-size: 20px;
+  font-weight: 800;
+}

@@ -1,7 +1,8 @@
 import { Main } from "./components"
+import "./components/styles/index.css"
 const App = () => {
   return (
-    <div>
+    <div className="App d-flex">
       <Main />
     </div>
   )

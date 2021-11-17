@@ -1,0 +1,7 @@
+.round-button {
+  border: 2px solid var(--color-gray-darken1);
+  border-radius: 50%;
+  background-color: transparent;
+  width: 20px;
+  height: 20px;
+}
